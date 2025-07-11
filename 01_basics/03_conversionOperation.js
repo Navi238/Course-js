@@ -56,6 +56,7 @@ gameCounter++;
 console.log(gameCounter);
 
 // prifix and postfix => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+// 
 
 
 
